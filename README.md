@@ -1,5 +1,5 @@
 - Harbin Institute of Technology
 - Institute of Satellite Technology
-- Aerospace Science and technology
+- Aerospace Science and Technology
 - Louis Hsu
 - louisx1221@gmail.com
